@@ -8,7 +8,7 @@
 
 conky.config = {
 
-	background = true,
+	background = false,
 	update_interval = 1,
 
 	cpu_avg_samples = 2,
